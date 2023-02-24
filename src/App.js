@@ -6,12 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>bbbbbbbbbbbbbbnnnnnnnnnnnnnnnn</p>
-        <p>uhuilh</p>
-        <p>yoohoooooooooooooo</p>
-        <p>againnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn</p>
-        <p>123101223235652</p>
-        <p>p</p>
+      <p>nazi joon</p>
         <p>
    
         </p>
